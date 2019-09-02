@@ -1,5 +1,5 @@
 # Trello React
-Trello React recreates some parts of the popular list-making app Trello in React. 
+Trello React recreates the popular list-making app Trello.... in React. 
 
 ## Motivation
 This was built to start 'thinking' in React. It was based off of starter non-React code, which I converted to different components. 
